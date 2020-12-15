@@ -1,0 +1,3670 @@
+---------------------[Start of Installation]---------------------
+Process Started at 06/02/19.22:41:02
+SVN Repository Path: http://fcsource01:8080/svn/WICER/ROTC85/
+Installation logfile: ROTC85_INSTALL.sh.06Feb19_224102.log 
+ 
+-----------------------[EBS Database Login]-----------------------
+Enter APPS Login Userid/Passwd (entered text will not display): 
+ Removing the existing WICER ROTC85_122 Directory 
++---------------------------------------------------------------------+
+| Checking out files for WICER: ROTC85_122                       
++---------------------------------------------------------------------+
+Checked out revision 51143.
+Updating 'XXGIL_RA_INT_LINES_ALL_T1.trg':
+A    XXGIL_RA_INT_LINES_ALL_T1.trg
+Updated to revision 48959.
+XXGIL_RA_INT_LINES_ALL_T1.trg checked out successfully.
+Updating 'AUSTRALIA.rtf':
+A    AUSTRALIA.rtf
+Updated to revision 48666.
+AUSTRALIA.rtf checked out successfully.
+Updating 'KOREA.rtf':
+A    KOREA.rtf
+Updated to revision 48666.
+KOREA.rtf checked out successfully.
+Updating 'NETHERLANDS.rtf':
+A    NETHERLANDS.rtf
+Updated to revision 48666.
+NETHERLANDS.rtf checked out successfully.
+Updating 'NEWZELAND.rtf':
+A    NEWZELAND.rtf
+Updated to revision 48666.
+NEWZELAND.rtf checked out successfully.
+Updating 'NORWAY.rtf':
+A    NORWAY.rtf
+Updated to revision 48666.
+NORWAY.rtf checked out successfully.
+Updating 'POLAND.rtf':
+A    POLAND.rtf
+Updated to revision 48666.
+POLAND.rtf checked out successfully.
+Updating 'PORTUGAL.rtf':
+A    PORTUGAL.rtf
+Updated to revision 48666.
+PORTUGAL.rtf checked out successfully.
+Updating 'SPAIN.rtf':
+A    SPAIN.rtf
+Updated to revision 48666.
+SPAIN.rtf checked out successfully.
+Updating 'SWEDEN.rtf':
+A    SWEDEN.rtf
+Updated to revision 48666.
+SWEDEN.rtf checked out successfully.
+Updating 'UK.rtf':
+A    UK.rtf
+Updated to revision 48666.
+UK.rtf checked out successfully.
+Updating 'JAPAN.rtf':
+A    JAPAN.rtf
+Updated to revision 48666.
+JAPAN.rtf checked out successfully.
+Updating 'HONGKONG.rtf':
+A    HONGKONG.rtf
+Updated to revision 50030.
+HONGKONG.rtf checked out successfully.
+Updating 'BELGIUM.rtf':
+A    BELGIUM.rtf
+Updated to revision 48666.
+BELGIUM.rtf checked out successfully.
+Updating 'DENMARK.rtf':
+A    DENMARK.rtf
+Updated to revision 48666.
+DENMARK.rtf checked out successfully.
+Updating 'FINLAND.rtf':
+A    FINLAND.rtf
+Updated to revision 48666.
+FINLAND.rtf checked out successfully.
+Updating 'IRELAND.rtf':
+A    IRELAND.rtf
+Updated to revision 48666.
+IRELAND.rtf checked out successfully.
+Updating 'CANADA.rtf':
+A    CANADA.rtf
+Updated to revision 48666.
+CANADA.rtf checked out successfully.
+Updating 'USA.rtf':
+A    USA.rtf
+Updated to revision 51142.
+USA.rtf checked out successfully.
+Updating 'BELGIUM.rtf':
+At revision 48666.
+BELGIUM.rtf checked out successfully.
+Updating 'DENMARK.rtf':
+At revision 48666.
+DENMARK.rtf checked out successfully.
+Updating 'FINLAND.rtf':
+At revision 48666.
+FINLAND.rtf checked out successfully.
+Updating 'IRELAND.rtf':
+At revision 48666.
+IRELAND.rtf checked out successfully.
+Updating 'NETHERLANDS.rtf':
+At revision 48666.
+NETHERLANDS.rtf checked out successfully.
+Updating 'NORWAY.rtf':
+At revision 48666.
+NORWAY.rtf checked out successfully.
+Updating 'SPAIN.rtf':
+At revision 48666.
+SPAIN.rtf checked out successfully.
+Updating 'SWEDEN.rtf':
+At revision 48666.
+SWEDEN.rtf checked out successfully.
+Updating 'USA.rtf':
+At revision 51142.
+USA.rtf checked out successfully.
+Updating 'TAIWAN.rtf':
+A    TAIWAN.rtf
+Updated to revision 48669.
+TAIWAN.rtf checked out successfully.
+Updating 'SINGAPORE.rtf':
+A    SINGAPORE.rtf
+Updated to revision 50030.
+SINGAPORE.rtf checked out successfully.
+Updating 'AUSTRIA.rtf':
+A    AUSTRIA.rtf
+Updated to revision 48666.
+AUSTRIA.rtf checked out successfully.
+Updating 'FRANCE.rtf':
+A    FRANCE.rtf
+Updated to revision 48667.
+FRANCE.rtf checked out successfully.
+Updating 'GERMANY.rtf':
+A    GERMANY.rtf
+Updated to revision 50030.
+GERMANY.rtf checked out successfully.
+Updating 'ITALY.rtf':
+A    ITALY.rtf
+Updated to revision 48666.
+ITALY.rtf checked out successfully.
+Updating 'SWITZERLAND.rtf':
+A    SWITZERLAND.rtf
+Updated to revision 48666.
+SWITZERLAND.rtf checked out successfully.
+Updating 'GREECE.rtf':
+A    GREECE.rtf
+Updated to revision 50030.
+GREECE.rtf checked out successfully.
+Updating 'USA.rtf':
+At revision 51142.
+USA.rtf checked out successfully.
+Updating 'IRELAND.rtf':
+At revision 48666.
+IRELAND.rtf checked out successfully.
+Updating 'NETHERLANDS.rtf':
+At revision 48666.
+NETHERLANDS.rtf checked out successfully.
+Updating 'NEWZELAND.rtf':
+At revision 48666.
+NEWZELAND.rtf checked out successfully.
+Updating 'NORWAY.rtf':
+At revision 48666.
+NORWAY.rtf checked out successfully.
+Updating 'PORTUGAL.rtf':
+At revision 48666.
+PORTUGAL.rtf checked out successfully.
+Updating 'SPAIN.rtf':
+At revision 48666.
+SPAIN.rtf checked out successfully.
+Updating 'SWEDEN.rtf':
+At revision 48666.
+SWEDEN.rtf checked out successfully.
+Updating 'UK.rtf':
+At revision 48666.
+UK.rtf checked out successfully.
+Updating 'AUSTRALIA.rtf':
+At revision 48666.
+AUSTRALIA.rtf checked out successfully.
+Updating 'BELGIUM.rtf':
+At revision 48666.
+BELGIUM.rtf checked out successfully.
+Updating 'DENMARK.rtf':
+At revision 48666.
+DENMARK.rtf checked out successfully.
+Updating 'FINLAND.rtf':
+At revision 48666.
+FINLAND.rtf checked out successfully.
+Updating 'CANADA.rtf':
+At revision 48666.
+CANADA.rtf checked out successfully.
+Updating 'GERMANY.rtf':
+U    GERMANY.rtf
+Updated to revision 48666.
+GERMANY.rtf checked out successfully.
+Updating 'FRANCE.rtf':
+At revision 48667.
+FRANCE.rtf checked out successfully.
+Updating 'SWITZERLAND.rtf':
+At revision 48666.
+SWITZERLAND.rtf checked out successfully.
+Updating 'AUSTRIA.rtf':
+At revision 48666.
+AUSTRIA.rtf checked out successfully.
+Updating 'ITALY.rtf':
+At revision 48666.
+ITALY.rtf checked out successfully.
+Updating 'SPAIN.rtf':
+At revision 48666.
+SPAIN.rtf checked out successfully.
+Updating 'SWEDEN.rtf':
+At revision 48666.
+SWEDEN.rtf checked out successfully.
+Updating 'XXGIL_EMAIL_COMM_INVOICE_PKG.pkb':
+A    XXGIL_EMAIL_COMM_INVOICE_PKG.pkb
+Updated to revision 46819.
+XXGIL_EMAIL_COMM_INVOICE_PKG.pkb checked out successfully.
+Updating 'PORTUGAL_PRINT.rtf':
+A    PORTUGAL_PRINT.rtf
+Updated to revision 48985.
+PORTUGAL_PRINT.rtf checked out successfully.
+Updating 'GERMANY.rtf':
+At revision 48666.
+GERMANY.rtf checked out successfully.
+Updating 'GERMANY.rtf':
+At revision 48666.
+GERMANY.rtf checked out successfully.
+Updating 'AUSTRIA.rtf':
+At revision 48666.
+AUSTRIA.rtf checked out successfully.
+Updating 'SWITZERLAND.rtf':
+At revision 48666.
+SWITZERLAND.rtf checked out successfully.
+Updating 'FRANCE.rtf':
+At revision 48667.
+FRANCE.rtf checked out successfully.
+Updating 'ITALY.rtf':
+At revision 48666.
+ITALY.rtf checked out successfully.
++---------------------------------------------------------------------+
+| Compiling and copying files for WICER ROTC85_122 
++---------------------------------------------------------------------+
+dos2unix: converting file XXGIL_RA_INT_LINES_ALL_T1.trg to Unix format ...
+.....Compiling XXGIL_RA_INT_LINES_ALL_T1.trg
+.....Copying to remote server:  
+.....[WARNING]:External server variable XXGIL_EXTERNAL_SERVER not set. File XXGIL_RA_INT_LINES_ALL_T1.trg will not be copied to any remote server.
+
+Trigger dropped.
+
+
+Trigger created.
+
+No errors.
+.....Executing XDOLoader for AUSTRALIA.rtf
+0
+XDOLoader started: Wed Feb 06 22:41:44 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AU]
+[FILE_NAME] [AUSTRALIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_AUSTRALIA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRALIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRALIA.rtf
+Updating the record in XDO_LOBS: AUSTRALIA.rtf
+Done updating the file in XDO_LOBS: AUSTRALIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:41:52 PST 2019
+.....Executing XDOLoader for KOREA.rtf
+0
+XDOLoader started: Wed Feb 06 22:41:52 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [KR]
+[FILE_NAME] [KOREA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_KOREA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [KOREA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: KOREA.rtf
+Updating the record in XDO_LOBS: KOREA.rtf
+Done updating the file in XDO_LOBS: KOREA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:00 PST 2019
+.....Executing XDOLoader for NETHERLANDS.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:01 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NL]
+[FILE_NAME] [NETHERLANDS.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_NETHERLANDS]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [nl]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NETHERLANDS.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NETHERLANDS.rtf
+Updating the record in XDO_LOBS: NETHERLANDS.rtf
+Done updating the file in XDO_LOBS: NETHERLANDS.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:09 PST 2019
+.....Executing XDOLoader for NEWZELAND.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:09 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NZ]
+[FILE_NAME] [NEWZELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_NEWZELAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NEWZELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NEWZELAND.rtf
+Updating the record in XDO_LOBS: NEWZELAND.rtf
+Done updating the file in XDO_LOBS: NEWZELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:17 PST 2019
+.....Executing XDOLoader for NORWAY.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:18 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NO]
+[FILE_NAME] [NORWAY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_NORWAY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [no]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NORWAY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NORWAY.rtf
+Updating the record in XDO_LOBS: NORWAY.rtf
+Done updating the file in XDO_LOBS: NORWAY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:26 PST 2019
+.....Executing XDOLoader for POLAND.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:26 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [PL]
+[FILE_NAME] [POLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_POLAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [POLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: POLAND.rtf
+Updating the record in XDO_LOBS: POLAND.rtf
+Done updating the file in XDO_LOBS: POLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:32 PST 2019
+.....Executing XDOLoader for PORTUGAL.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:33 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [PT]
+[FILE_NAME] [PORTUGAL.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_PORTUGAL]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [pt]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [PORTUGAL.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: PORTUGAL.rtf
+Updating the record in XDO_LOBS: PORTUGAL.rtf
+Done updating the file in XDO_LOBS: PORTUGAL.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:39 PST 2019
+.....Executing XDOLoader for SPAIN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:39 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_SPAIN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:45 PST 2019
+.....Executing XDOLoader for SWEDEN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:46 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_SWEDEN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:53 PST 2019
+.....Executing XDOLoader for UK.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:53 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [GB]
+[FILE_NAME] [UK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_UK]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [UK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: UK.rtf
+Updating the record in XDO_LOBS: UK.rtf
+Done updating the file in XDO_LOBS: UK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:59 PST 2019
+.....Executing XDOLoader for JAPAN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:59 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [JP]
+[FILE_NAME] [JAPAN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_JP]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [ja]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [JAPAN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: JAPAN.rtf
+Updating the record in XDO_LOBS: JAPAN.rtf
+Done updating the file in XDO_LOBS: JAPAN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:04 PST 2019
+.....Executing XDOLoader for HONGKONG.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:05 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [HK]
+[FILE_NAME] [HONGKONG.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_HONGKONG]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [HONGKONG.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: HONGKONG.rtf
+Updating the record in XDO_LOBS: HONGKONG.rtf
+Done updating the file in XDO_LOBS: HONGKONG.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:13 PST 2019
+.....Executing XDOLoader for BELGIUM.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [BE]
+[FILE_NAME] [BELGIUM.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_BELGIUM]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [BELGIUM.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: BELGIUM.rtf
+Updating the record in XDO_LOBS: BELGIUM.rtf
+Done updating the file in XDO_LOBS: BELGIUM.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:19 PST 2019
+.....Executing XDOLoader for DENMARK.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:20 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DK]
+[FILE_NAME] [DENMARK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_DENMARK]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [da]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [DENMARK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: DENMARK.rtf
+Updating the record in XDO_LOBS: DENMARK.rtf
+Done updating the file in XDO_LOBS: DENMARK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:26 PST 2019
+.....Executing XDOLoader for FINLAND.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:26 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FI]
+[FILE_NAME] [FINLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_FINLAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fi]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FINLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FINLAND.rtf
+Updating the record in XDO_LOBS: FINLAND.rtf
+Done updating the file in XDO_LOBS: FINLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:34 PST 2019
+.....Executing XDOLoader for IRELAND.rtf
+[020619_224340144][][ERROR] [Line 35992.123] Missing table begin XSL context for: <?END IF?>
+[020619_224340154][][ERROR] [Line 36004.181] Missing table begin XSL context for: <?END IF?>
+[020619_224340682][][ERROR] [Line 71328.124] Missing table begin XSL context for: <?END IF?>
+[020619_224340685][][ERROR] [Line 71340.182] Missing table begin XSL context for: <?END IF?>
+0
+XDOLoader started: Wed Feb 06 22:43:35 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IE]
+[FILE_NAME] [IRELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_IRELAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [IRELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: IRELAND.rtf
+Updating the record in XDO_LOBS: IRELAND.rtf
+Done updating the file in XDO_LOBS: IRELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:43 PST 2019
+.....Executing XDOLoader for CANADA.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:44 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CA]
+[FILE_NAME] [CANADA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_CANADA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [CANADA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: CANADA.rtf
+Updating the record in XDO_LOBS: CANADA.rtf
+Done updating the file in XDO_LOBS: CANADA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:51 PST 2019
+.....Executing XDOLoader for USA.rtf
+[020619_224355304][][ERROR] [Line 36837.210] Illegal closing table XSL context for: xsl:if
+[020619_224355811][][ERROR] [Line 74439.106] Missing table begin XSL context for: <?END IF?>
+[020619_224355815][][ERROR] [Line 74451.181] Missing table begin XSL context for: <?END IF?>
+[020619_224355921][][ERROR] [Line 111135.211] Illegal closing table XSL context for: xsl:if
+[020619_224356126][][ERROR] [Line 148314.136] Missing table begin XSL context for: <?END IF?>
+[020619_224356129][][ERROR] [Line 148327.181] Missing table begin XSL context for: <?END IF?>
+0
+XDOLoader started: Wed Feb 06 22:43:51 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [US]
+[FILE_NAME] [USA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_USA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [USA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: USA.rtf
+Updating the record in XDO_LOBS: USA.rtf
+Done updating the file in XDO_LOBS: USA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:59 PST 2019
+.....Executing XDOLoader for BELGIUM.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [BE]
+[FILE_NAME] [BELGIUM.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_BELGIUM]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [BELGIUM.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: BELGIUM.rtf
+Updating the record in XDO_LOBS: BELGIUM.rtf
+Done updating the file in XDO_LOBS: BELGIUM.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:19 PST 2019
+XDOLoader started: Wed Feb 06 22:44:00 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [BE]
+[FILE_NAME] [BELGIUM.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_BELGIUM]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [BELGIUM.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: BELGIUM.rtf
+Updating the record in XDO_LOBS: BELGIUM.rtf
+Done updating the file in XDO_LOBS: BELGIUM.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:44:06 PST 2019
+.....Executing XDOLoader for DENMARK.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:20 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DK]
+[FILE_NAME] [DENMARK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_DENMARK]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [da]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [DENMARK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: DENMARK.rtf
+Updating the record in XDO_LOBS: DENMARK.rtf
+Done updating the file in XDO_LOBS: DENMARK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:26 PST 2019
+XDOLoader started: Wed Feb 06 22:44:07 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DK]
+[FILE_NAME] [DENMARK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_DENMARK]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [da]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [DENMARK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: DENMARK.rtf
+Updating the record in XDO_LOBS: DENMARK.rtf
+Done updating the file in XDO_LOBS: DENMARK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:44:14 PST 2019
+.....Executing XDOLoader for FINLAND.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:26 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FI]
+[FILE_NAME] [FINLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_FINLAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fi]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FINLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FINLAND.rtf
+Updating the record in XDO_LOBS: FINLAND.rtf
+Done updating the file in XDO_LOBS: FINLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:34 PST 2019
+XDOLoader started: Wed Feb 06 22:44:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FI]
+[FILE_NAME] [FINLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_FINLAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fi]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FINLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FINLAND.rtf
+Updating the record in XDO_LOBS: FINLAND.rtf
+Done updating the file in XDO_LOBS: FINLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:44:36 PST 2019
+.....Executing XDOLoader for IRELAND.rtf
+[020619_224535274][][ERROR] [Line 35992.123] Missing table begin XSL context for: <?END IF?>
+[020619_224535285][][ERROR] [Line 36004.181] Missing table begin XSL context for: <?END IF?>
+[020619_224535800][][ERROR] [Line 71328.124] Missing table begin XSL context for: <?END IF?>
+[020619_224535802][][ERROR] [Line 71340.182] Missing table begin XSL context for: <?END IF?>
+0
+XDOLoader started: Wed Feb 06 22:43:35 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IE]
+[FILE_NAME] [IRELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_IRELAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [IRELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: IRELAND.rtf
+Updating the record in XDO_LOBS: IRELAND.rtf
+Done updating the file in XDO_LOBS: IRELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:43 PST 2019
+XDOLoader started: Wed Feb 06 22:44:37 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IE]
+[FILE_NAME] [IRELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_IRELAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [IRELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: IRELAND.rtf
+Updating the record in XDO_LOBS: IRELAND.rtf
+Done updating the file in XDO_LOBS: IRELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:45:38 PST 2019
+.....Executing XDOLoader for NETHERLANDS.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:01 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NL]
+[FILE_NAME] [NETHERLANDS.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_NETHERLANDS]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [nl]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NETHERLANDS.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NETHERLANDS.rtf
+Updating the record in XDO_LOBS: NETHERLANDS.rtf
+Done updating the file in XDO_LOBS: NETHERLANDS.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:09 PST 2019
+XDOLoader started: Wed Feb 06 22:45:38 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NL]
+[FILE_NAME] [NETHERLANDS.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_NETHERLANDS]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [nl]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NETHERLANDS.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NETHERLANDS.rtf
+Updating the record in XDO_LOBS: NETHERLANDS.rtf
+Done updating the file in XDO_LOBS: NETHERLANDS.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:46:01 PST 2019
+.....Executing XDOLoader for NORWAY.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:18 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NO]
+[FILE_NAME] [NORWAY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_NORWAY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [no]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NORWAY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NORWAY.rtf
+Updating the record in XDO_LOBS: NORWAY.rtf
+Done updating the file in XDO_LOBS: NORWAY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:26 PST 2019
+XDOLoader started: Wed Feb 06 22:46:02 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NO]
+[FILE_NAME] [NORWAY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_NORWAY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [no]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NORWAY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NORWAY.rtf
+Updating the record in XDO_LOBS: NORWAY.rtf
+Done updating the file in XDO_LOBS: NORWAY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:46:38 PST 2019
+.....Executing XDOLoader for SPAIN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:39 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_SPAIN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:45 PST 2019
+XDOLoader started: Wed Feb 06 22:46:38 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_SPAIN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:47:05 PST 2019
+.....Executing XDOLoader for SWEDEN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:46 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_SWEDEN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:53 PST 2019
+XDOLoader started: Wed Feb 06 22:47:05 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_SWEDEN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:47:28 PST 2019
+.....Executing XDOLoader for USA.rtf
+[020619_224806341][][ERROR] [Line 36837.210] Illegal closing table XSL context for: xsl:if
+[020619_224806974][][ERROR] [Line 74439.106] Missing table begin XSL context for: <?END IF?>
+[020619_224806979][][ERROR] [Line 74451.181] Missing table begin XSL context for: <?END IF?>
+[020619_224807139][][ERROR] [Line 111135.211] Illegal closing table XSL context for: xsl:if
+[020619_224807546][][ERROR] [Line 148314.136] Missing table begin XSL context for: <?END IF?>
+[020619_224807548][][ERROR] [Line 148327.181] Missing table begin XSL context for: <?END IF?>
+0
+XDOLoader started: Wed Feb 06 22:43:51 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [US]
+[FILE_NAME] [USA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_USA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [USA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: USA.rtf
+Updating the record in XDO_LOBS: USA.rtf
+Done updating the file in XDO_LOBS: USA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:59 PST 2019
+XDOLoader started: Wed Feb 06 22:47:29 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [US]
+[FILE_NAME] [USA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_USA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [USA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: USA.rtf
+Updating the record in XDO_LOBS: USA.rtf
+Done updating the file in XDO_LOBS: USA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:48:11 PST 2019
+.....Executing XDOLoader for TAIWAN.rtf
+0
+XDOLoader started: Wed Feb 06 22:48:12 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [TW]
+[FILE_NAME] [TAIWAN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMSINV_TAIWAN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [TAIWAN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: TAIWAN.rtf
+Updating the record in XDO_LOBS: TAIWAN.rtf
+Done updating the file in XDO_LOBS: TAIWAN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:48:34 PST 2019
+.....Executing XDOLoader for SINGAPORE.rtf
+0
+XDOLoader started: Wed Feb 06 22:48:34 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SG]
+[FILE_NAME] [SINGAPORE.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMSINVS_SG]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SINGAPORE.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SINGAPORE.rtf
+Updating the record in XDO_LOBS: SINGAPORE.rtf
+Done updating the file in XDO_LOBS: SINGAPORE.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:49:03 PST 2019
+.....Executing XDOLoader for AUSTRIA.rtf
+[020619_224931562][][ERROR] [Line 35151.3] XML Tokenizer Error - Invalid XML Syntax: <?for-each:G_LINES[LINE_TYPE = 'LINE' and LINE_DESCRIPTION != 'TAX Line']?> <xsl:sort select=’CF_LINE_NUMBER’ data-type=’number’ order=’as
+0
+XDOLoader started: Wed Feb 06 22:49:03 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AT]
+[FILE_NAME] [AUSTRIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_AUSTRIA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRIA.rtf
+Updating the record in XDO_LOBS: AUSTRIA.rtf
+Done updating the file in XDO_LOBS: AUSTRIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:49:33 PST 2019
+.....Executing XDOLoader for FRANCE.rtf
+0
+XDOLoader started: Wed Feb 06 22:49:33 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FR]
+[FILE_NAME] [FRANCE.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_FRANCE]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fr]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FRANCE.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FRANCE.rtf
+Updating the record in XDO_LOBS: FRANCE.rtf
+Done updating the file in XDO_LOBS: FRANCE.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:49:56 PST 2019
+.....Executing XDOLoader for GERMANY.rtf
+0
+XDOLoader started: Wed Feb 06 22:49:56 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_GERMANY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:50:36 PST 2019
+.....Executing XDOLoader for ITALY.rtf
+0
+XDOLoader started: Wed Feb 06 22:50:37 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IT]
+[FILE_NAME] [ITALY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_ITALY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [it]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [ITALY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: ITALY.rtf
+Updating the record in XDO_LOBS: ITALY.rtf
+Done updating the file in XDO_LOBS: ITALY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:51:03 PST 2019
+.....Executing XDOLoader for SWITZERLAND.rtf
+[020619_225127519][][ERROR] [Line 35130.3] XML Tokenizer Error - Invalid XML Syntax: <?for-each:G_LINES[LINE_TYPE = 'LINE' and LINE_DESCRIPTION != 'TAX Line']?> <xsl:sort select=’CF_LINE_NUMBER’ data-type=’number’ order=’as
+0
+XDOLoader started: Wed Feb 06 22:51:03 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CH]
+[FILE_NAME] [SWITZERLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_SWISS]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWITZERLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWITZERLAND.rtf
+Updating the record in XDO_LOBS: SWITZERLAND.rtf
+Done updating the file in XDO_LOBS: SWITZERLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:51:29 PST 2019
+.....Executing XDOLoader for GREECE.rtf
+0
+XDOLoader started: Wed Feb 06 22:51:30 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [00]
+[FILE_NAME] [GREECE.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVGR]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GREECE.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GREECE.rtf
+Updating the record in XDO_LOBS: GREECE.rtf
+Done updating the file in XDO_LOBS: GREECE.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:52:39 PST 2019
+.....Executing XDOLoader for USA.rtf
+[020619_225305863][][ERROR] [Line 36837.210] Illegal closing table XSL context for: xsl:if
+[020619_225306404][][ERROR] [Line 74439.106] Missing table begin XSL context for: <?END IF?>
+[020619_225306408][][ERROR] [Line 74451.181] Missing table begin XSL context for: <?END IF?>
+[020619_225306519][][ERROR] [Line 111135.211] Illegal closing table XSL context for: xsl:if
+[020619_225306724][][ERROR] [Line 148314.136] Missing table begin XSL context for: <?END IF?>
+[020619_225306727][][ERROR] [Line 148327.181] Missing table begin XSL context for: <?END IF?>
+0
+XDOLoader started: Wed Feb 06 22:43:51 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [US]
+[FILE_NAME] [USA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_USA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [USA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: USA.rtf
+Updating the record in XDO_LOBS: USA.rtf
+Done updating the file in XDO_LOBS: USA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:59 PST 2019
+XDOLoader started: Wed Feb 06 22:47:29 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [US]
+[FILE_NAME] [USA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_USA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [USA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: USA.rtf
+Updating the record in XDO_LOBS: USA.rtf
+Done updating the file in XDO_LOBS: USA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:48:11 PST 2019
+XDOLoader started: Wed Feb 06 22:52:39 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [US]
+[FILE_NAME] [USA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [USA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: USA.rtf
+Updating the record in XDO_LOBS: USA.rtf
+Done updating the file in XDO_LOBS: USA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:53:09 PST 2019
+.....Executing XDOLoader for IRELAND.rtf
+[020619_225326000][][ERROR] [Line 35992.123] Missing table begin XSL context for: <?END IF?>
+[020619_225326005][][ERROR] [Line 36004.181] Missing table begin XSL context for: <?END IF?>
+[020619_225326396][][ERROR] [Line 71328.124] Missing table begin XSL context for: <?END IF?>
+[020619_225326399][][ERROR] [Line 71340.182] Missing table begin XSL context for: <?END IF?>
+0
+XDOLoader started: Wed Feb 06 22:43:35 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IE]
+[FILE_NAME] [IRELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_IRELAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [IRELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: IRELAND.rtf
+Updating the record in XDO_LOBS: IRELAND.rtf
+Done updating the file in XDO_LOBS: IRELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:43 PST 2019
+XDOLoader started: Wed Feb 06 22:44:37 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IE]
+[FILE_NAME] [IRELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_IRELAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [IRELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: IRELAND.rtf
+Updating the record in XDO_LOBS: IRELAND.rtf
+Done updating the file in XDO_LOBS: IRELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:45:38 PST 2019
+XDOLoader started: Wed Feb 06 22:53:10 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IE]
+[FILE_NAME] [IRELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [IRELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: IRELAND.rtf
+Updating the record in XDO_LOBS: IRELAND.rtf
+Done updating the file in XDO_LOBS: IRELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:53:28 PST 2019
+.....Executing XDOLoader for NETHERLANDS.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:01 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NL]
+[FILE_NAME] [NETHERLANDS.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_NETHERLANDS]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [nl]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NETHERLANDS.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NETHERLANDS.rtf
+Updating the record in XDO_LOBS: NETHERLANDS.rtf
+Done updating the file in XDO_LOBS: NETHERLANDS.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:09 PST 2019
+XDOLoader started: Wed Feb 06 22:45:38 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NL]
+[FILE_NAME] [NETHERLANDS.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_NETHERLANDS]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [nl]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NETHERLANDS.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NETHERLANDS.rtf
+Updating the record in XDO_LOBS: NETHERLANDS.rtf
+Done updating the file in XDO_LOBS: NETHERLANDS.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:46:01 PST 2019
+XDOLoader started: Wed Feb 06 22:53:28 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NL]
+[FILE_NAME] [NETHERLANDS.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [nl]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NETHERLANDS.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NETHERLANDS.rtf
+Updating the record in XDO_LOBS: NETHERLANDS.rtf
+Done updating the file in XDO_LOBS: NETHERLANDS.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:53:41 PST 2019
+.....Executing XDOLoader for NEWZELAND.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:09 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NZ]
+[FILE_NAME] [NEWZELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_NEWZELAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NEWZELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NEWZELAND.rtf
+Updating the record in XDO_LOBS: NEWZELAND.rtf
+Done updating the file in XDO_LOBS: NEWZELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:17 PST 2019
+XDOLoader started: Wed Feb 06 22:53:41 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NZ]
+[FILE_NAME] [NEWZELAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NEWZELAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NEWZELAND.rtf
+Updating the record in XDO_LOBS: NEWZELAND.rtf
+Done updating the file in XDO_LOBS: NEWZELAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:54:20 PST 2019
+.....Executing XDOLoader for NORWAY.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:18 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NO]
+[FILE_NAME] [NORWAY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_NORWAY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [no]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NORWAY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NORWAY.rtf
+Updating the record in XDO_LOBS: NORWAY.rtf
+Done updating the file in XDO_LOBS: NORWAY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:26 PST 2019
+XDOLoader started: Wed Feb 06 22:46:02 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NO]
+[FILE_NAME] [NORWAY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_NORWAY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [no]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NORWAY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NORWAY.rtf
+Updating the record in XDO_LOBS: NORWAY.rtf
+Done updating the file in XDO_LOBS: NORWAY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:46:38 PST 2019
+XDOLoader started: Wed Feb 06 22:54:21 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [NO]
+[FILE_NAME] [NORWAY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [no]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [NORWAY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: NORWAY.rtf
+Updating the record in XDO_LOBS: NORWAY.rtf
+Done updating the file in XDO_LOBS: NORWAY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:54:45 PST 2019
+.....Executing XDOLoader for PORTUGAL.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:33 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [PT]
+[FILE_NAME] [PORTUGAL.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_PORTUGAL]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [pt]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [PORTUGAL.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: PORTUGAL.rtf
+Updating the record in XDO_LOBS: PORTUGAL.rtf
+Done updating the file in XDO_LOBS: PORTUGAL.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:39 PST 2019
+XDOLoader started: Wed Feb 06 22:54:46 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [PT]
+[FILE_NAME] [PORTUGAL.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [pt]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [PORTUGAL.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: PORTUGAL.rtf
+Updating the record in XDO_LOBS: PORTUGAL.rtf
+Done updating the file in XDO_LOBS: PORTUGAL.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:55:04 PST 2019
+.....Executing XDOLoader for SPAIN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:39 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_SPAIN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:45 PST 2019
+XDOLoader started: Wed Feb 06 22:46:38 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_SPAIN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:47:05 PST 2019
+XDOLoader started: Wed Feb 06 22:55:04 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:55:29 PST 2019
+.....Executing XDOLoader for SWEDEN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:46 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_SWEDEN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:53 PST 2019
+XDOLoader started: Wed Feb 06 22:47:05 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_SWEDEN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:47:28 PST 2019
+XDOLoader started: Wed Feb 06 22:55:30 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:56:08 PST 2019
+.....Executing XDOLoader for UK.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:53 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [GB]
+[FILE_NAME] [UK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_UK]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [UK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: UK.rtf
+Updating the record in XDO_LOBS: UK.rtf
+Done updating the file in XDO_LOBS: UK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:59 PST 2019
+XDOLoader started: Wed Feb 06 22:56:09 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [GB]
+[FILE_NAME] [UK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [UK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: UK.rtf
+Updating the record in XDO_LOBS: UK.rtf
+Done updating the file in XDO_LOBS: UK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:56:40 PST 2019
+.....Executing XDOLoader for AUSTRALIA.rtf
+0
+XDOLoader started: Wed Feb 06 22:41:44 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AU]
+[FILE_NAME] [AUSTRALIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_AUSTRALIA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRALIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRALIA.rtf
+Updating the record in XDO_LOBS: AUSTRALIA.rtf
+Done updating the file in XDO_LOBS: AUSTRALIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:41:52 PST 2019
+XDOLoader started: Wed Feb 06 22:56:41 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AU]
+[FILE_NAME] [AUSTRALIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRALIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRALIA.rtf
+Updating the record in XDO_LOBS: AUSTRALIA.rtf
+Done updating the file in XDO_LOBS: AUSTRALIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:57:09 PST 2019
+.....Executing XDOLoader for BELGIUM.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [BE]
+[FILE_NAME] [BELGIUM.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_BELGIUM]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [BELGIUM.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: BELGIUM.rtf
+Updating the record in XDO_LOBS: BELGIUM.rtf
+Done updating the file in XDO_LOBS: BELGIUM.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:19 PST 2019
+XDOLoader started: Wed Feb 06 22:44:00 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [BE]
+[FILE_NAME] [BELGIUM.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_BELGIUM]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [BELGIUM.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: BELGIUM.rtf
+Updating the record in XDO_LOBS: BELGIUM.rtf
+Done updating the file in XDO_LOBS: BELGIUM.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:44:06 PST 2019
+XDOLoader started: Wed Feb 06 22:57:09 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [BE]
+[FILE_NAME] [BELGIUM.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [BELGIUM.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: BELGIUM.rtf
+Updating the record in XDO_LOBS: BELGIUM.rtf
+Done updating the file in XDO_LOBS: BELGIUM.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:57:56 PST 2019
+.....Executing XDOLoader for DENMARK.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:20 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DK]
+[FILE_NAME] [DENMARK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_DENMARK]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [da]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [DENMARK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: DENMARK.rtf
+Updating the record in XDO_LOBS: DENMARK.rtf
+Done updating the file in XDO_LOBS: DENMARK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:26 PST 2019
+XDOLoader started: Wed Feb 06 22:44:07 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DK]
+[FILE_NAME] [DENMARK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_DENMARK]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [da]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [DENMARK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: DENMARK.rtf
+Updating the record in XDO_LOBS: DENMARK.rtf
+Done updating the file in XDO_LOBS: DENMARK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:44:14 PST 2019
+XDOLoader started: Wed Feb 06 22:57:56 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DK]
+[FILE_NAME] [DENMARK.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [da]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [DENMARK.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: DENMARK.rtf
+Updating the record in XDO_LOBS: DENMARK.rtf
+Done updating the file in XDO_LOBS: DENMARK.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:58:06 PST 2019
+.....Executing XDOLoader for FINLAND.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:26 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FI]
+[FILE_NAME] [FINLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_FINLAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fi]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FINLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FINLAND.rtf
+Updating the record in XDO_LOBS: FINLAND.rtf
+Done updating the file in XDO_LOBS: FINLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:34 PST 2019
+XDOLoader started: Wed Feb 06 22:44:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FI]
+[FILE_NAME] [FINLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_FINLAND]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fi]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FINLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FINLAND.rtf
+Updating the record in XDO_LOBS: FINLAND.rtf
+Done updating the file in XDO_LOBS: FINLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:44:36 PST 2019
+XDOLoader started: Wed Feb 06 22:58:06 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FI]
+[FILE_NAME] [FINLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fi]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FINLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FINLAND.rtf
+Updating the record in XDO_LOBS: FINLAND.rtf
+Done updating the file in XDO_LOBS: FINLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:58:18 PST 2019
+.....Executing XDOLoader for CANADA.rtf
+0
+XDOLoader started: Wed Feb 06 22:43:44 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CA]
+[FILE_NAME] [CANADA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_CANADA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [CANADA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: CANADA.rtf
+Updating the record in XDO_LOBS: CANADA.rtf
+Done updating the file in XDO_LOBS: CANADA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:43:51 PST 2019
+XDOLoader started: Wed Feb 06 22:58:18 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CA]
+[FILE_NAME] [CANADA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [CANADA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: CANADA.rtf
+Updating the record in XDO_LOBS: CANADA.rtf
+Done updating the file in XDO_LOBS: CANADA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:58:31 PST 2019
+.....Executing XDOLoader for GERMANY.rtf
+0
+XDOLoader started: Wed Feb 06 22:49:56 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_GERMANY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:50:36 PST 2019
+XDOLoader started: Wed Feb 06 22:58:32 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:58:46 PST 2019
+.....Executing XDOLoader for FRANCE.rtf
+0
+XDOLoader started: Wed Feb 06 22:49:33 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FR]
+[FILE_NAME] [FRANCE.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_FRANCE]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fr]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FRANCE.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FRANCE.rtf
+Updating the record in XDO_LOBS: FRANCE.rtf
+Done updating the file in XDO_LOBS: FRANCE.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:49:56 PST 2019
+XDOLoader started: Wed Feb 06 22:58:47 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FR]
+[FILE_NAME] [FRANCE.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fr]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FRANCE.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FRANCE.rtf
+Updating the record in XDO_LOBS: FRANCE.rtf
+Done updating the file in XDO_LOBS: FRANCE.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:59:13 PST 2019
+.....Executing XDOLoader for SWITZERLAND.rtf
+[020619_225941387][][ERROR] [Line 35130.3] XML Tokenizer Error - Invalid XML Syntax: <?for-each:G_LINES[LINE_TYPE = 'LINE' and LINE_DESCRIPTION != 'TAX Line']?> <xsl:sort select=’CF_LINE_NUMBER’ data-type=’number’ order=’as
+0
+XDOLoader started: Wed Feb 06 22:51:03 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CH]
+[FILE_NAME] [SWITZERLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_SWISS]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWITZERLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWITZERLAND.rtf
+Updating the record in XDO_LOBS: SWITZERLAND.rtf
+Done updating the file in XDO_LOBS: SWITZERLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:51:29 PST 2019
+XDOLoader started: Wed Feb 06 22:59:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CH]
+[FILE_NAME] [SWITZERLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWITZERLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWITZERLAND.rtf
+Updating the record in XDO_LOBS: SWITZERLAND.rtf
+Done updating the file in XDO_LOBS: SWITZERLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:59:43 PST 2019
+.....Executing XDOLoader for AUSTRIA.rtf
+[020619_230011802][][ERROR] [Line 35151.3] XML Tokenizer Error - Invalid XML Syntax: <?for-each:G_LINES[LINE_TYPE = 'LINE' and LINE_DESCRIPTION != 'TAX Line']?> <xsl:sort select=’CF_LINE_NUMBER’ data-type=’number’ order=’as
+0
+XDOLoader started: Wed Feb 06 22:49:03 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AT]
+[FILE_NAME] [AUSTRIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_AUSTRIA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRIA.rtf
+Updating the record in XDO_LOBS: AUSTRIA.rtf
+Done updating the file in XDO_LOBS: AUSTRIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:49:33 PST 2019
+XDOLoader started: Wed Feb 06 22:59:43 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AT]
+[FILE_NAME] [AUSTRIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRIA.rtf
+Updating the record in XDO_LOBS: AUSTRIA.rtf
+Done updating the file in XDO_LOBS: AUSTRIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:00:13 PST 2019
+.....Executing XDOLoader for ITALY.rtf
+0
+XDOLoader started: Wed Feb 06 22:50:37 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IT]
+[FILE_NAME] [ITALY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_ITALY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [it]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [ITALY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: ITALY.rtf
+Updating the record in XDO_LOBS: ITALY.rtf
+Done updating the file in XDO_LOBS: ITALY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:51:03 PST 2019
+XDOLoader started: Wed Feb 06 23:00:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IT]
+[FILE_NAME] [ITALY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [it]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [ITALY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: ITALY.rtf
+Updating the record in XDO_LOBS: ITALY.rtf
+Done updating the file in XDO_LOBS: ITALY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:00:50 PST 2019
+.....Executing XDOLoader for SPAIN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:39 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_SPAIN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:45 PST 2019
+XDOLoader started: Wed Feb 06 22:46:38 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_SPAIN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:47:05 PST 2019
+XDOLoader started: Wed Feb 06 22:55:04 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:55:29 PST 2019
+XDOLoader started: Wed Feb 06 23:00:50 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [ES]
+[FILE_NAME] [SPAIN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [es]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SPAIN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SPAIN.rtf
+Updating the record in XDO_LOBS: SPAIN.rtf
+Done updating the file in XDO_LOBS: SPAIN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:01:18 PST 2019
+.....Executing XDOLoader for SWEDEN.rtf
+0
+XDOLoader started: Wed Feb 06 22:42:46 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVS_SWEDEN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:42:53 PST 2019
+XDOLoader started: Wed Feb 06 22:47:05 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVMAIL_SWEDEN]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:47:28 PST 2019
+XDOLoader started: Wed Feb 06 22:55:30 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:56:08 PST 2019
+XDOLoader started: Wed Feb 06 23:01:18 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [SE]
+[FILE_NAME] [SWEDEN.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [sv]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWEDEN.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWEDEN.rtf
+Updating the record in XDO_LOBS: SWEDEN.rtf
+Done updating the file in XDO_LOBS: SWEDEN.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:01:50 PST 2019
+dos2unix: converting file XXGIL_EMAIL_COMM_INVOICE_PKG.pkb to Unix format ...
+.....Compiling XXGIL_EMAIL_COMM_INVOICE_PKG.pkb
+.....Copying to remote server:  
+.....[WARNING]:External server variable XXGIL_EXTERNAL_SERVER not set. File XXGIL_EMAIL_COMM_INVOICE_PKG.pkb will not be copied to any remote server.
+
+Package body created.
+
+.....Executing XDOLoader for PORTUGAL_PRINT.rtf
+0
+XDOLoader started: Wed Feb 06 23:01:50 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [PT]
+[FILE_NAME] [PORTUGAL_PRINT.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVPT]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [pt]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [PORTUGAL_PRINT.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: PORTUGAL_PRINT.rtf
+Updating the record in XDO_LOBS: PORTUGAL_PRINT.rtf
+Done updating the file in XDO_LOBS: PORTUGAL_PRINT.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:02:33 PST 2019
+.....Executing XDOLoader for GERMANY.rtf
+0
+XDOLoader started: Wed Feb 06 22:49:56 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_GERMANY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:50:36 PST 2019
+XDOLoader started: Wed Feb 06 22:58:32 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:58:46 PST 2019
+XDOLoader started: Wed Feb 06 23:02:34 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVLOTSPLIT_GERMANY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:03:04 PST 2019
+.....Executing XDOLoader for GERMANY.rtf
+0
+XDOLoader started: Wed Feb 06 22:49:56 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_GERMANY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:50:36 PST 2019
+XDOLoader started: Wed Feb 06 22:58:32 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:58:46 PST 2019
+XDOLoader started: Wed Feb 06 23:02:34 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVLOTSPLIT_GERMANY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [en]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:03:04 PST 2019
+XDOLoader started: Wed Feb 06 23:03:05 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [DE]
+[FILE_NAME] [GERMANY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVSPLIT]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [GERMANY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: GERMANY.rtf
+Updating the record in XDO_LOBS: GERMANY.rtf
+Done updating the file in XDO_LOBS: GERMANY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:04:10 PST 2019
+.....Executing XDOLoader for AUSTRIA.rtf
+[020619_230422407][][ERROR] [Line 35151.3] XML Tokenizer Error - Invalid XML Syntax: <?for-each:G_LINES[LINE_TYPE = 'LINE' and LINE_DESCRIPTION != 'TAX Line']?> <xsl:sort select=’CF_LINE_NUMBER’ data-type=’number’ order=’as
+0
+XDOLoader started: Wed Feb 06 22:49:03 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AT]
+[FILE_NAME] [AUSTRIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_AUSTRIA]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRIA.rtf
+Updating the record in XDO_LOBS: AUSTRIA.rtf
+Done updating the file in XDO_LOBS: AUSTRIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:49:33 PST 2019
+XDOLoader started: Wed Feb 06 22:59:43 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AT]
+[FILE_NAME] [AUSTRIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRIA.rtf
+Updating the record in XDO_LOBS: AUSTRIA.rtf
+Done updating the file in XDO_LOBS: AUSTRIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:00:13 PST 2019
+XDOLoader started: Wed Feb 06 23:04:11 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [AT]
+[FILE_NAME] [AUSTRIA.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVSPLIT]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [AUSTRIA.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: AUSTRIA.rtf
+Updating the record in XDO_LOBS: AUSTRIA.rtf
+Done updating the file in XDO_LOBS: AUSTRIA.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:04:24 PST 2019
+.....Executing XDOLoader for SWITZERLAND.rtf
+[020619_230452782][][ERROR] [Line 35130.3] XML Tokenizer Error - Invalid XML Syntax: <?for-each:G_LINES[LINE_TYPE = 'LINE' and LINE_DESCRIPTION != 'TAX Line']?> <xsl:sort select=’CF_LINE_NUMBER’ data-type=’number’ order=’as
+0
+XDOLoader started: Wed Feb 06 22:51:03 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CH]
+[FILE_NAME] [SWITZERLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_SWISS]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWITZERLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWITZERLAND.rtf
+Updating the record in XDO_LOBS: SWITZERLAND.rtf
+Done updating the file in XDO_LOBS: SWITZERLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:51:29 PST 2019
+XDOLoader started: Wed Feb 06 22:59:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CH]
+[FILE_NAME] [SWITZERLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWITZERLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWITZERLAND.rtf
+Updating the record in XDO_LOBS: SWITZERLAND.rtf
+Done updating the file in XDO_LOBS: SWITZERLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:59:43 PST 2019
+XDOLoader started: Wed Feb 06 23:04:25 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [CH]
+[FILE_NAME] [SWITZERLAND.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVSPLIT]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [de]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [SWITZERLAND.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: SWITZERLAND.rtf
+Updating the record in XDO_LOBS: SWITZERLAND.rtf
+Done updating the file in XDO_LOBS: SWITZERLAND.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:04:55 PST 2019
+.....Executing XDOLoader for FRANCE.rtf
+0
+XDOLoader started: Wed Feb 06 22:49:33 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FR]
+[FILE_NAME] [FRANCE.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_FRANCE]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fr]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FRANCE.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FRANCE.rtf
+Updating the record in XDO_LOBS: FRANCE.rtf
+Done updating the file in XDO_LOBS: FRANCE.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:49:56 PST 2019
+XDOLoader started: Wed Feb 06 22:58:47 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FR]
+[FILE_NAME] [FRANCE.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fr]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FRANCE.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FRANCE.rtf
+Updating the record in XDO_LOBS: FRANCE.rtf
+Done updating the file in XDO_LOBS: FRANCE.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:59:13 PST 2019
+XDOLoader started: Wed Feb 06 23:04:56 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [FR]
+[FILE_NAME] [FRANCE.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVSPLIT]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [fr]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [FRANCE.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: FRANCE.rtf
+Updating the record in XDO_LOBS: FRANCE.rtf
+Done updating the file in XDO_LOBS: FRANCE.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:05:31 PST 2019
+.....Executing XDOLoader for ITALY.rtf
+0
+XDOLoader started: Wed Feb 06 22:50:37 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IT]
+[FILE_NAME] [ITALY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVEULOT_ITALY]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [it]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [ITALY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: ITALY.rtf
+Updating the record in XDO_LOBS: ITALY.rtf
+Done updating the file in XDO_LOBS: ITALY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 22:51:03 PST 2019
+XDOLoader started: Wed Feb 06 23:00:14 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IT]
+[FILE_NAME] [ITALY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINV]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [it]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [ITALY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: ITALY.rtf
+Updating the record in XDO_LOBS: ITALY.rtf
+Done updating the file in XDO_LOBS: ITALY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:00:50 PST 2019
+XDOLoader started: Wed Feb 06 23:05:32 PST 2019
+
+
+Parameters passed to XDOLoader...
+[TERRITORY] [IT]
+[FILE_NAME] [ITALY.rtf]
+[DB_USERNAME] [apps]
+[XDO_FILE_TYPE] [RTF]
+[LOB_CODE] [XXGILARCOMINVSPLIT]
+[NLS_LANG] [American_America.AL32UTF8]
+[FILE_CONTENT_TYPE] [application/rtf]
+[JDBC_CONNECTION] [(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=sjebsodbdevn08.na.gilead.com)(PORT=1578)))(CONNECT_DATA=(SERVICE_NAME=ERPDEV08)))]
+[LANGUAGE] [it]
+[DB_PASSWORD] [******]
+[LOB_TYPE] [TEMPLATE_SOURCE]
+[CUSTOM_MODE] [FORCE]
+[LOG_FILE] [ITALY.rtf.log]
+[UPLOAD] [UPLOAD]
+[APPS_SHORT_NAME] [XXGIL]
+ 
+Start uploading...
+Target file: ITALY.rtf
+Updating the record in XDO_LOBS: ITALY.rtf
+Done updating the file in XDO_LOBS: ITALY.rtf
+
+
+XDOLoader done successfully: Wed Feb 06 23:06:06 PST 2019
+[ATTENTION]:Migration Failed. See log files for details.
+AUSTRALIA.rtf.log
+AUSTRIA.rtf.log
+BELGIUM.rtf.log
+CANADA.rtf.log
+DENMARK.rtf.log
+FINLAND.rtf.log
+FRANCE.rtf.log
+GERMANY.rtf.log
+GREECE.rtf.log
+HONGKONG.rtf.log
+IRELAND.rtf.log
+ITALY.rtf.log
+JAPAN.rtf.log
+KOREA.rtf.log
+NETHERLANDS.rtf.log
+NEWZELAND.rtf.log
+NORWAY.rtf.log
+POLAND.rtf.log
+PORTUGAL_PRINT.rtf.log
+PORTUGAL.rtf.log
+SINGAPORE.rtf.log
+SPAIN.rtf.log
+SWEDEN.rtf.log
+SWITZERLAND.rtf.log
+TAIWAN.rtf.log
+UK.rtf.log
+USA.rtf.log
+XXGIL_EMAIL_COMM_INVOICE_PKG.pkb.log
+XXGIL_RA_INT_LINES_ALL_T1.trg.log
+# Sending email***#
+Can't stat ;tapan.swain@gilead.com: No such file or directory
+;tapan.swain@gilead.com: unable to attach file.
+ROTC85_INSTALL.sh: line 2525: /appltop/ERPDEV08/apps12.2/fs1/FMW_Home/Oracle_EBS-app1/applications/oacore/html/migrations.log: Permission denied
+
+Process Ended at 06/02/19.23:06:06
+-------------------[End of Installation]-------------------

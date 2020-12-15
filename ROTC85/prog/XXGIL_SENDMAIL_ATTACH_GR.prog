@@ -1,0 +1,79 @@
+#!/bin/ksh
+#/*
+#||   Filename: XXGIL_SENDMAIL_ATTACH_GR.prog
+#||   Ver       Date           Author           Modification
+#||   1.0       11/11/2019     pkutty 			As part of CR#2032 - copied from XXGIL_GENERIC_SENDMAIL.prog
+#||											    1.Added CC Email and Remove Files Before Days Parameters
+#||												2.Added From, CC Email to mutt command
+#||												3.Added command to find and remove files from path based on days
+#||
+#||   Usage : Email file as attachment and remove files from specific path based on days older parameter 13
+#||
+#||   Copyright Gilead
+#||   ***********
+#||   All rights reserved.
+#*/
+FCP_LOGIN=$1
+
+FCP_FROM=$5
+FCP_TO=$6
+FCP_FILELOCATION=$7
+FCP_FILENAME=$8
+FCP_BODY1=$9
+FCP_BODY2=${10}
+FCP_SUBJECT=${11}
+FCP_CC_EMAIL=${12}
+FCP_RM_FILES_BF_DAYS=${13}
+
+echo "+===Parameter Values==========+"
+echo $5
+echo $6
+echo $7
+echo $8
+echo $9
+echo ${10}
+echo ${11}
+echo ${12}
+echo ${13}
+echo "+==============================+"
+
+
+echo "Sending email"
+echo "To         :"$FCP_TO
+echo "Subject    :"$FCP_SUBJECT
+echo "Attached file :"$FCP_FILELOCATION/$FCP_FILENAME
+echo -e "Message    :"$FCP_BODY1$FCP_BODY2
+echo "From Email:"$FCP_FROM
+echo "Cc Email:"$FCP_CC_EMAIL
+echo "Remove Files Older Than Days:"$FCP_RM_FILES_BF_DAYS
+
+
+ mutt -e "my_hdr From:$FCP_FROM" -s "$FCP_SUBJECT" -c "$FCP_CC_EMAIL" -a $FCP_FILELOCATION/$FCP_FILENAME -- $FCP_TO << TT
+  ${FCP_BODY1}${FCP_BODY2}
+TT
+if [ $? -eq 0 ]
+then
+echo "Sending mail successfull"
+#exit 0
+else
+echo " Mail not sent sucessfully"
+exit 1
+fi
+
+#Remove Files Older Than Days from the file location. 
+#This is part of cleanup and to avoid increase in folder size.
+
+if [ -n "$FCP_RM_FILES_BF_DAYS" ]; then
+echo "Removing Files Older than Days:"$FCP_RM_FILES_BF_DAYS
+find $FCP_FILELOCATION/ -type f -name '*.pdf' -mtime +$FCP_RM_FILES_BF_DAYS -exec rm {} \;
+	if [ $? -eq 0 ]
+	then
+	echo "Removing Files Successfull"
+	exit 0
+	else
+	echo "Removing Files Un-Sucessfull"
+	exit 1
+	fi
+fi
+
+

@@ -1,0 +1,77 @@
+CREATE OR REPLACE PACKAGE xxgil_ar_inv_email_greece_pkg AS
+
+/*****************************************************************************************
+*   Filename  :        xxgil_ar_inv_email_greece_pkg.pkh
+*   Package Name:      xxgil_ar_inv_email_greece_pkg
+*   Description :      Package Spec is Created for Emailing Functionality of 
+*                           Greece Receivable Invoices (CR#2032)
+*   Usage/Purpose :    Used in Concurrent Program - GIL Email Commercial Invoice - Greece
+*
+****************************Modification History******************************************
+*   Ver     Date         Author               Modification/History
+*   1.0     Nov-2019     pkutty               Intital Version for CR#2032
+*
+**************************************************************************************** */
+
+  --Global Variables
+  g_org_id NUMBER DEFAULT mo_global.get_current_org_id;
+  g_resp_id NUMBER DEFAULT fnd_profile.value('RESP_ID');
+  g_resp_appl_id NUMBER DEFAULT fnd_profile.value('RESP_APPL_ID');
+  g_user_id NUMBER DEFAULT fnd_profile.value('USER_ID');
+  
+--Function Used in RDF File XXGILARCOMINVGR.rdf
+FUNCTION get_custom_path (p_request_id IN NUMBER) RETURN VARCHAR2;
+
+PROCEDURE submit_email_prgm (p_cc_email IN VARCHAR2,
+                             p_request_id IN NUMBER,
+                             po_email_req_id OUT NOCOPY NUMBER,
+                             po_err_msg OUT NOCOPY VARCHAR2);  
+
+PROCEDURE populate_trx_details(p_request_id IN NUMBER,
+                                p_trx_number IN VARCHAR2,
+                                p_org_id IN NUMBER,
+                                p_org_name IN VARCHAR2);
+  
+PROCEDURE get_email_details(p_request_id IN NUMBER,
+                            p_stage_path OUT VARCHAR2,
+                            p_smtp_host OUT VARCHAR2,
+                            p_smtp_port OUT VARCHAR2,
+                            p_from_email OUT VARCHAR2,
+                            p_to_email OUT VARCHAR2,
+                            p_msg_body OUT VARCHAR2,
+                            p_templ_loc OUT VARCHAR2);
+
+--Main Procedure referred in executable of CP GIL Email Commercial Invoice - Greece
+    PROCEDURE main (
+        p_err_buff                  OUT   VARCHAR2,
+        p_ret_code                  OUT   NUMBER,
+        p_order_by                  IN    VARCHAR2,
+        p_choice                    IN    VARCHAR2,
+        p_print_email               IN    VARCHAR2 DEFAULT 'Email',
+        p_cust_trx_class            IN    VARCHAR2,
+        p_cust_trx_type_id          IN    NUMBER,
+        p_trx_number_low            IN    VARCHAR2,
+        p_trx_number_high           IN    VARCHAR2,
+        p_dates_low                 IN    VARCHAR2,--DATE,
+        p_dates_high                IN    VARCHAR2,--DATE,
+        p_sales_order_low           IN    NUMBER,
+        p_sales_order_high          IN    NUMBER,
+        p_delivery_num_low          IN    VARCHAR2,
+        p_delivery_num_high         IN    VARCHAR2,
+        p_cust_po_num_low           IN    VARCHAR2,
+        p_cust_po_num_high          IN    VARCHAR2,
+        p_customer_class_code       IN    VARCHAR2,
+        p_customer_id               IN    NUMBER,
+        p_customer_num_id           IN number,
+        p_open_invoice              IN    VARCHAR2,
+        p_check_for_taxyn           IN    VARCHAR2,
+        p_tax_registration_number IN    VARCHAR2,
+        p_header_pages              IN    NUMBER,
+        p_debug_flag                IN    VARCHAR2,
+        p_message_level             IN    NUMBER,
+        p_print_einvoices           IN    VARCHAR2,
+        p_cc_email                  IN    VARCHAR2
+    );
+
+END xxgil_ar_inv_email_greece_pkg;
+/
